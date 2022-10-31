@@ -7,16 +7,27 @@ li{
   color: black;
   padding: 50px
 }
+@font-face {
+  font-family: 'PUMKIN';
+  src:url('PumpkinType-Halloween.ttf')format('truetype');
+}
 h1{
   color: red;
   font-size: 60px;
   text-align: center;
+  font-family: 'PUMKIN',Times,serif;
 
 }
 p{
   color: red;
   font-size: 30px;
+    font-family:'happy',Times,serif;
+    font-size: 40px;
 }
 img{
-  font-size: 80px
+  font-size: 80px;
+}
+@font-face {
+  font-family:'happy';
+  src: url('Spoky Spiders.ttf' )format('truetype'),url('Spooky.otf')format('opentype')
 }
