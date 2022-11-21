@@ -26,6 +26,8 @@ p{
 }
 img{
   font-size: 80px;
+  width:100px;
+  height:100px;
 }
 @font-face {
   font-family:'happy';
