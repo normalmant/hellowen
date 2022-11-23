@@ -9,7 +9,7 @@ li{
 }
 @font-face {
   font-family: 'PUMKIN';
-  src:url('PumpkinType-Halloween.ttf')format('truetype');
+  src:url('CFHalloween-Regular.ttf')format('truetype');
 }
 h1{
   color: red;
@@ -22,14 +22,33 @@ p{
   color: red;
   font-size: 30px;
     font-family:'happy',Times,serif;
+    margin-left: 50px;
     font-size: 40px;
 }
 img{
   font-size: 80px;
+  width:500px;
+  height:500px;
+}
+#imagem4{
+  font-size: 80px;
   width:100px;
   height:100px;
+
+}
+#imagem1{
+  font-size: 80px;
+  width:500px;
+  height:500px;
 }
 @font-face {
   font-family:'happy';
   src: url('Spoky Spiders.ttf' )format('truetype'),url('Spooky.otf')format('opentype')
 }
+body{
+  background: url('Captura de tela_2022-11-23_09-08-53.png');
+  background-repeat: no-repeat;
+  position: relative;
+    background-size: 5000px
+
+   }
